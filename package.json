@@ -1,0 +1,15 @@
+{
+  "name": "home-library-backend",
+  "version": "1.0.0",
+  "description": "API for home info bookd notes etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type" : "git",
+  "url" : "git@github.com:vatic/home-library-backend.git"
+  },
+  "author": "s.vatagin@gmail.com",
+  "license": "ISC"
+}
